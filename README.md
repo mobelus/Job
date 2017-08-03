@@ -4,19 +4,13 @@ Job positions and other stuff
 
 # START _____ DEUTSCHLAND WORK  _____ 03-08-2017:
 
-Lead Software Engineer | Bildverarbeitung im Automotive-Umfeld | bis 80.000€ | Inhouse (m/w)
-
-http://stellenanzeige.monster.de/lead-software-engineer-bildverarbeitung-im-automotive-umfeld-bis-80-000%E2%82%AC-inhouse-m-w-job-stuttgart-baden-w%C3%BCrttemberg-deutschland-175698424.aspx?mescoid=1100011001001&jobPosition=2
-
+    //Standort: Aachen
+MFC - NO_MONEY_INFO - http://stellenanzeige.monster.de/softwareentwickler-c-wpf-und-oder-c-mfc-m-w-job-aachen-nordrhein-westfalen-deutschland-186267323.aspx?mescoid=1500127001001&jobPosition=2
 
 Leiter Softwareentwicklung C++ | Verantwortung für 15 Mitarbeiter | bis 100.000 € (m/w)
 
 http://stellenanzeige.monster.de/leiter-softwareentwicklung-c-verantwortung-f%C3%BCr-15-mitarbeiter-bis-100-000-%E2%82%AC-m-w-job-gro%C3%9Fraum-stuttgart-baden-w%C3%BCrttemberg-deutschland-185780809.aspx?mescoid=1100011001001&jobPosition=2
 
-
-Softwareentwickler C#/WPF und/oder C++/MFC (m/w)
-
-http://stellenanzeige.monster.de/softwareentwickler-c-wpf-und-oder-c-mfc-m-w-job-aachen-nordrhein-westfalen-deutschland-186267323.aspx?mescoid=1500127001001&jobPosition=2
 
 Softwareentwickler C++ / QT / QML | Bedienoberfläche / GUI / HMI für Medizintechnik | Inhouse (m/w)
 
