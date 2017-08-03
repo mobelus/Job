@@ -16,7 +16,7 @@ MFC - bis 100.000 € - Leiter Softwareentwicklung C++ | Verantwortung für 15 M
     //Standort: München
 MFC - bis 90T € - Softwarearchitekt und Softwareentwickler C++ | Labortechnik | bis 90T € | Inhouse - http://stellenanzeige.monster.de/softwarearchitekt-und-softwareentwickler-c-labortechnik-bis-90t-%E2%82%AC-inhouse-m-w-job-m%C3%BCnchen-nord-bayern-deutschland-186544018.aspx?mescoid=1500127001001&jobPosition=2
 
-   //Standort: München, Hamburg, Stuttgart
+    //Standort: München, Hamburg, Stuttgart
 C++ - bis zu 80.000 - Softwareentwickler C++ | Software unter MS Visual Studio entwickeln | bis zu 80.000 € (m/w)
 http://stellenanzeige.monster.de/softwareentwickler-c-software-unter-ms-visual-studio-entwickeln-bis-zu-80-000-%E2%82%AC-m-w-job-m%C3%BCnchen-hamburg-stuttgart-deutschland-185780236.aspx?mescoid=1500127001001&jobPosition=2
 
