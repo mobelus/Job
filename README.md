@@ -1,6 +1,36 @@
 # Job
 Job positions and other stuff
 
+# START _____ SCHWEIZ WORK  _____ 10-08-2017:
+
+https://www.glassdoor.com/job-listing/developer-tools-c-software-engineer-nvidia-JV_IC3348306_KO0,35_KE36,42.htm?jl=1936397704&ctt=1502314853663
+
+https://www.careerjet.ch/vhdl-jobs.html
+
+https://www.jobscout24.ch/de/jobs-in-z%C3%BCrich/c%2B%2B/	
+
+https://www.jobkralle.de/jobs/-c++-schweiz
+
+http://ch.jobrapido.com/?w=c%2b%2b&l=z%C3%BCrich&r=auto
+
+
+
+
+http://ch.jobrapido.com/?w=c%2b%2b&l=z%C3%BCrich&r=auto
+
+
+
+https://www.experteer.ch/account/signup_now/job/8009325?rx_campaign=jobrapido5&rx_medium=cpc&rx_source=JobRapido&utm_content=job&utm_medium=metasearch&utm_source=jobrapido
+
+https://www.experteer.ch/account/signup_now/job/9712449?rx_campaign=jobrapido5&rx_medium=cpc&rx_source=JobRapido&utm_content=job&utm_medium=metasearch&utm_source=jobrapido
+
+https://www.experteer.ch/account/signup_now/job/9712452?rx_campaign=jobrapido5&rx_medium=cpc&rx_source=JobRapido&utm_content=job&utm_medium=metasearch&utm_source=jobrapido
+
+https://www.experteer.ch/account/signup_now/job/9550928?rx_campaign=jobrapido5&rx_medium=cpc&rx_source=JobRapido&utm_content=job&utm_medium=metasearch&utm_source=jobrapido
+
+# END _____ SCHWEIZ WORK  _____ 10-08-2017:
+
+
 
 # START _____ DEUTSCHLAND WORK  _____ 03-08-2017:
 
