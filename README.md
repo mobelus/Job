@@ -34,6 +34,12 @@ https://www.experteer.ch/account/signup_now/job/9550928?rx_campaign=jobrapido5&r
 
 # START _____ DEUTSCHLAND WORK  _____ 03-08-2017:
 
+    //Standort: Berlin
+C++ -  
+https://www.think-cell.com/en/career/jobs/development.shtml
+
+
+
     //Standort: Aachen
 MFC - NO_MONEY_INFO - Softwareentwickler C#/WPF und/oder C++/MFC (m/w) - http://stellenanzeige.monster.de/softwareentwickler-c-wpf-und-oder-c-mfc-m-w-job-aachen-nordrhein-westfalen-deutschland-186267323.aspx?mescoid=1500127001001&jobPosition=2
 
